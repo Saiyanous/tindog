@@ -1,0 +1,183 @@
+
+
+#title {
+    background-color: #ff4c68;
+    position: relative;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+.iphonedog {
+    transform: rotate(25deg); 
+    position: absolute;
+    width: 60%;
+    bottom: 150px;
+    top: 1px;
+    left: 10%;
+    
+    
+    
+    
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+
+}
+
+.navbar-brand {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+/* Download Buttons */
+
+.download-button {
+    margin: 15% 5% 5% 0
+}
+.tick {
+    color: #ef8172;
+    margin-bottom: 1rem;
+    }
+
+    /* Features Section */
+    
+.Easy {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    
+}
+
+.easy2 {
+    color: #8f8f8f;
+}
+
+.target {
+   color: #ef8172;
+   margin-bottom: 1rem;
+}
+
+.elite {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.work {
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+.row {
+    
+    padding-top: 10%;
+}
+
+.dogs {
+    color: #8f8f8f;
+}
+
+.money {
+    color: #8f8f8f;
+}
+
+#features {
+    text-align: center;
+    padding: 5%;
+    background-color: white;
+    position: relative;
+    
+}
+
+
+.tick:hover {
+    color: #ff4c68
+}
+.target:hover {
+    color: #ff4c68
+}
+
+/* Testimonial Section */
+
+#testimonials {
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+    height: 600px;
+    
+    
+}
+
+.testimonials-dog {
+    border-radius: 30%;
+    width: 10%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.random-pic {
+    height: 120px;
+    border-radius: 30%;
+    width: 10%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Pricing Section */
+
+#pricing {
+    padding: 7%; 
+    text-align: center;
+    
+}
+
+.pricing-column {
+    padding: 3% 2%;
+} 
